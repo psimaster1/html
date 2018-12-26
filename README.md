@@ -1,2 +1,2 @@
 # html.github.io
-html
+<a href="snake.html">Snake</a>
